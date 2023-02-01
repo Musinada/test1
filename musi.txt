@@ -1,4 +1,9 @@
 hi baby
 welcome to git
 
+<<<<<<< HEAD
 12345678910
+=======
+
+thank you baby
+>>>>>>> e810022 (updated file)
